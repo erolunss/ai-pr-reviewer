@@ -1,6 +1,10 @@
-name: 'AI PR Code Reviewer'
+﻿name: 'Erol AI PR Code Reviewer'
 description: 'Pull Request değişikliklerini özetler ve olası hataları yorum olarak ekler.'
-author: 'unsal'
+author: 'erolunss'
+
+branding:
+  icon: 'check-circle'
+  color: 'purple'
 
 inputs:
   github_token:
